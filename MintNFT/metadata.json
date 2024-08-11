@@ -1,0 +1,14 @@
+{
+    "name":"TBD",
+    "description":"TBD",
+    "image":"TBD",
+    "decimals":0,
+    "unitName":"TBD",
+    "image_integrity":"sha256-QmZimoKYoRwBcWtRYsoRJPRk8aDwZp2j4zUihh2eczpdRp",
+    "image_mimetype":"image/jpg",
+    "properties":
+        {
+            "beauty":100,
+            "love":10
+        }
+}
